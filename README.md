@@ -1,4 +1,4 @@
-# Personal Expense Tracker (CLI)
+# Personal Expense Tracker 
 
 ## Features
 - Add expenses (amount, category, description)
